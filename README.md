@@ -26,7 +26,3 @@ Firebase
 
 ## Gerenciamento de Estado
 Riverpod
-
-
-## Features
-
