@@ -2,21 +2,8 @@
 
 Aplicativo de Chat em tempo real!
 
-### ✨ Fotos
+## ✨ Fotos
 [Rivaan Ranawat](https://youtu.be/yqwfP2vXWJQ) 
-
-### Features
-
-
-### Arquitetura
-MVVM
-
-### Pacotes
-Firebase
-
-### Gerenciamento de Estado
-Riverpod
-
 
 ## Features
 - Autenticação de Número de Telefone
@@ -29,4 +16,17 @@ Riverpod
 - Mensagem Visualizada
 - Respondendo a Mensagens
 - Rolagem Automática em Novas Mensagens
+
+
+## Arquitetura
+MVVM
+
+## Pacotes
+Firebase
+
+## Gerenciamento de Estado
+Riverpod
+
+
+## Features
 
